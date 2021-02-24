@@ -1,0 +1,40 @@
+body {
+    font-family: system-ui;
+    background: lightgrey;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+  }
+  h1 { 
+    background: grey
+  }
+  .first{
+    color: green;
+    font-size: 28px;
+  }  
+  .second{
+    color: black;
+    font-size: 21px;
+    font-weight: light;
+    text-align: left
+  }
+  .third{
+    color: black;
+    font-size: 21px;
+    font-weight: light;
+    text-align: left
+  }
+  .fourth{
+    color: green;
+    font-size: 28px;
+    text-align: left;
+  }  
+  .list{
+    text-align: left
+  }
+  form {
+    text-align: left
+    border: 4px solid green;
+    padding: 7px; 
+  }
